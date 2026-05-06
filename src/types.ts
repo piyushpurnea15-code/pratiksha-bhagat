@@ -73,7 +73,7 @@ export const INITIAL_DATA: SiteData = {
     bio: "Verified Instagram Creator focused on luxury lifestyle, fashion trends, and beauty transformations.",
     location: "Bihar • Gurgaon • Delhi",
     email: "workwidpratiksha29@gmail.com",
-    heroPhoto: "/ChatGPT Image May 6, 2026, 10_30_12 PM.png",
+    heroPhoto: "/hero-main.png",
     wishlink: ""
   },
   stats: {
@@ -139,9 +139,9 @@ export const INITIAL_DATA: SiteData = {
     "Sa": [{ time: "12a", activity: 30 }, { time: "3a", activity: 15 }, { time: "6a", activity: 60 }, { time: "9a", activity: 100 }, { time: "12p", activity: 100 }, { time: "3p", activity: 100 }, { time: "6p", activity: 100 }, { time: "9p", activity: 100 }]
   },
   content: [
-    { id: "content-1", type: "video", views: "1.2M", thumbnail: "/Image-153.jpg", url: "https://www.instagram.com/reels/" },
-    { id: "content-2", type: "video", views: "850K", thumbnail: "/Image-634.jpg", url: "https://www.instagram.com/reels/" },
-    { id: "content-3", type: "image", views: "450K", thumbnail: "/Image-286.jpg", url: "https://www.instagram.com/" },
+    { id: "content-1", type: "video", views: "1.2M", thumbnail: "/content-1.jpg", url: "https://www.instagram.com/reels/" },
+    { id: "content-2", type: "video", views: "850K", thumbnail: "/content-2.jpg", url: "https://www.instagram.com/reels/" },
+    { id: "content-3", type: "image", views: "450K", thumbnail: "/content-3.jpg", url: "https://www.instagram.com/" },
     { id: "content-4", type: "video", views: "2.1M", thumbnail: "https://images.unsplash.com/photo-1529139572177-393f923ffc40?auto=format&fit=crop&q=80&w=600", url: "https://www.instagram.com/reels/" },
     { id: "content-5", type: "image", views: "320K", thumbnail: "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&q=80&w=600", url: "https://www.instagram.com/" },
     { id: "content-6", type: "video", views: "1.5M", thumbnail: "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&q=80&w=600", url: "https://www.instagram.com/reels/" }
